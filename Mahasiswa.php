@@ -23,12 +23,7 @@ class Mahasiswa extends CI_Controller
 		
 		$this->load->view('ubah');
 	}
-		public function save()
-	{
-		
-		
-	}
-
+	
 
 
 	
